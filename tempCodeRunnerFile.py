@@ -1,0 +1,2 @@
+assword)
+print(password)
